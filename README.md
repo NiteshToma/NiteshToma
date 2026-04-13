@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋 I'm Nitesh Tomar<br><br>📊 **Data Analyst | Aspiring Data Scientist**<br><br>Passionate about turning raw data into meaningful insights, dashboards, and smart solutions. Skilled in **Power BI, SQL, Python, Machine Learning, and Statistics** with a strong focus on analytics, visualization, and problem-solving.<br><br>###⚡ Tech Stack<br><br>Python • SQL • Power BI • Excel • Machine Learning • Statistics<br><br>### 🌱 Currently Growing In<br><br>Data Science • Advanced Analytics • Real-world Projects<br><br>### 📍 Connect<br><br>Gurugram, India • [niteshtomar1464@gmail.com](mailto:niteshtomar1464@gmail.com)<br><br>✨ *Learning. Building. Growing.*<br>
+ Hi 👋 I'm Nitesh Tomar<br><br>📊  Data Analyst | Aspiring Data Scientist**<br><br>Passionate about turning raw data into meaningful insights, dashboards, and smart solutions. Skilled in **Power BI, SQL, Python, Machine Learning, and Statistics** with a strong focus on analytics, visualization, and problem-solving.<br><br>⚡ Tech Stack<br><br>Python • SQL • Power BI • Excel • Machine Learning • Statistics<br><br>🌱 Currently Growing In<br><br>Data Science • Advanced Analytics • Real-world Projects<br><br> 📍 Connect<br><br>Gurugram, India • [niteshtomar1464@gmail.com](mailto:niteshtomar1464@gmail.com)<br><br>✨ *Learning. Building. Growing.*<br>
 
 
 ## 🌐 Socials:
